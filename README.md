@@ -1,59 +1,40 @@
-<h1 align="left">HI! I'M MEHMET! 👋</h1>
+# Mehmet Demir 👋 | Veriyi Stratejik Kararlara Dönüştüren Profesyonel
 
-I'm a Data Analyst & Business Intelligence practitioner focused on turning production & quality data into decisions.
-I build reproducible reports and interactive dashboards with **Power BI, SQL Server, Excel/VBA**.
+Veri analizi ve iş zekası (Business Intelligence) alanındaki tecrübemle, ham verileri güçlü ve eyleme geçirilebilir içgörülere dönüştürme konusunda uzmanlaştım. Yönetimin daha hızlı ve doğru kararlar almasını sağlayacak dinamik raporlama ve verimlilik çözümleri sunuyorum.
+
+San Metal Sanayi bünyesinde, süreç optimizasyonunu ve performansı artırmaya yönelik projeler üzerinde çalışıyorum.
 
 ---
 
-## 📫 How to Reach Me
+### Ana Yetkinlik Alanlarım
+
+* **Stratejik Raporlama:** Yönetim için kritik önem taşıyan etkileşimli Power BI dashboard'ları ve raporları hazırlamak.
+* **Süreç İyileştirme:** Veri odaklı analizlerle darboğazları tespit edip, operasyonel verimliliği artırmak.
+* **Veri Altyapısı:** SQL ve VBA kullanarak verilerin daha etkin yönetilmesini ve otomasyonunu sağlamak.
+
+---
+
+### 🔗 Benimle İletişime Geçin
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehmtdemir-ab392b135/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mehmtdemir-ab392b135/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:mehmetdemir60@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
----
+### 📊 Kullandığım Teknolojiler ve Araçlar
 
-## 🧰 Languages and Tools
-
-<!-- skillicons: genel -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" height="42" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powerbi,sql,excel,vba,solidworks,autocad" />
+    <img src="https://skillicons.dev/icons?i=python,vscode" />
+    <img src="https://img.shields.io/badge/QDMS-007ACC?style=flat&labelColor=000&logo=qdms&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCALIPER-0099D1?style=flat&labelColor=000" />
+    <img src="https://img.shields.io/badge/MASPLUS-4A90E2?style=flat&labelColor=000" />
+    <img src="https://img.shields.io/badge/ZEISS_INSPECT-00366D?style=flat&labelColor=000" />
+    <img src="https://img.shields.io/badge/PrusaSlicer-F38B21?style=flat&logo=prusa3d&logoColor=white" />
+  </a>
 </p>
-
-<!-- shields: BI ve alan araçları -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="28" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" height="28" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff" height="28" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff" height="28" />
-  <img src="https://img.shields.io/badge/SOLIDWORKS-E31212?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/ZEISS_INSPECT-003366?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/QDMS-0A66C2?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/MCALIPER-0A66C2?style=for-the-badge" height="28" />
-  <img src="https:/
-
-## 📊 GitHub Stats and Top Languages
-
-<div align="center">
-
-  <a href="https://github.com/mehmetdemiir">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&include_all_commits=true&count_private=true&hide_title=false" alt="Mehmet's GitHub stats" />
-  </a>
-
-  <a href="https://github.com/mehmetdemiir">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&langs_count=8&card_width=360" alt="Top languages" />
-  </a>
-
-</div>
-
-<!-- Opsiyonel: katkı serisi -->
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehmetdemiir&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p> -->
-

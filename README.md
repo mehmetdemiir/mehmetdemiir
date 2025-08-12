@@ -1,6 +1,6 @@
-# Merhaba, ben Mehmet Demir!
+# Merhaba, ben Mehmet Demir! 👋
 
-Verinin gücüne inanan bir profesyonel olarak, ham verileri anlamlı içgörülere dönüştürmeye odaklanıyorum. Power BI, Excel, SQL ve VBA kullanarak iş süreçlerini iyileştiren çözümler üretiyorum.
+Verinin gücüne tutkuyla inanan bir profesyonel olarak, ham verileri anlamlı içgörülere dönüştürmeye odaklanıyorum. Power BI, Excel, SQL ve VBA kullanarak iş süreçlerini iyileştiren çözümler üretiyorum.
 
 ### 🔗 Benimle İletişime Geçin
 
@@ -13,7 +13,7 @@ Verinin gücüne inanan bir profesyonel olarak, ham verileri anlamlı içgörül
   </a>
 </p>
 
-## 💻📊 Kullandığım Teknolojiler ve Araçlar
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,7 +27,6 @@ Verinin gücüne inanan bir profesyonel olarak, ham verileri anlamlı içgörül
   </a>
 </p>
 
-
-## 🚀 GitHub İstatistiklerim
+### 🚀 GitHub İstatistiklerim
 
 [![Mehmet'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=onedark)](https://github.com/mehmetdemiir)

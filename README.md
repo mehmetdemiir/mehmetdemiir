@@ -38,3 +38,22 @@ I build reproducible reports and interactive dashboards with **Power BI, SQL Ser
   <img src="https://img.shields.io/badge/MCALIPER-0A66C2?style=for-the-badge" height="28" />
   <img src="https:/
 
+## 📊 GitHub Stats and Top Languages
+
+<div align="center">
+
+  <a href="https://github.com/mehmetdemiir">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&include_all_commits=true&count_private=true&hide_title=false" alt="Mehmet's GitHub stats" />
+  </a>
+
+  <a href="https://github.com/mehmetdemiir">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&langs_count=8&card_width=360" alt="Top languages" />
+  </a>
+
+</div>
+
+<!-- Opsiyonel: katkı serisi -->
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=mehmetdemiir&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p> -->
+

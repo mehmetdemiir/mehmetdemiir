@@ -26,13 +26,12 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation
 
-<!-- === Rozetler (Simple Icons) === -->
+<!-- === Rozetler (raw.githubusercontent.com üzerinden) === -->
 <p align="left">
-  <!-- İstersen bağlantı da verebilirsin: <a href="..."><img ... /></a> -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="32" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="32" alt="Excel"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="32" alt="SQL Server"/>
-  <img src="https://cdn.simpleicons.org/visualbasic/5C2D91" height="32" alt="VBA"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" height="32" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftexcel.svg" height="32" alt="Excel"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/visualbasic.svg" height="32" alt="VBA"/>
 </p>
 
 

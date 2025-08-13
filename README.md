@@ -39,7 +39,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="32" alt="VBA"/>
+    <img src="https://img.shields.io/badge/VBA-812328?style=flat&logo=visual-basic-for-applications&logoColor=white" alt="VBA"/>
   </a>
 </p>
 

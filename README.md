@@ -18,6 +18,10 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 
 ## 📫 How to Reach Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-ab992b135/)
+  <a href="mailto:mehmetdemiir.60@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
+</p>
 
 ### My Skills and Tools
 

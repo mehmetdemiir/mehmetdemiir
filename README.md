@@ -7,7 +7,7 @@
 
 <!-- === Basit dalga efekti (üst) === -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a237e,100:512da8&section=header" width="100%" alt="decorative divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,33:1976D2,66:303F9F,100:5E35B1&section=header" width="100%" alt="decorative divider"/>
 
 I am a Data Analyst and Business Intelligence practitioner who is passionate about the power of data. 📊
 

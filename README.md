@@ -27,10 +27,10 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Presentation & Communication:** Data Storytelling and Presentation
 
 <p align="left">
-  <img src="assets/icons/powerbi.svg" height="40" alt="Power BI"/>
-  <img src="assets/icons/microsoftexcel.svg" height="40" alt="Excel"/>
-  <img src="assets/icons/microsoftsqlserver.svg" height="40" alt="SQL Server"/>
-  <img src="assets/icons/visualbasic.svg" height="40" alt="VBA"/>
+  <img src="assets/icons/powerbi.svg" height="32" alt="Power BI"/>
+  <img src="assets/icons/microsoftexcel.svg" height="32" alt="Excel"/>
+  <img src="assets/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
+  <img src="assets/icons/visualbasic.svg" height="32" alt="VBA"/>
 </p>
 
 

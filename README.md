@@ -1,10 +1,10 @@
 <h1 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-       width="20" height="20" alt="waving hand"
-       style="vertical-align:middle; margin-right:6px;" />
-  <img src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
-       alt="HI! I'M MEHMET! (typing effect)" style="vertical-align:middle;" />
+  <img
+    src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
+    alt="HI! I'M MEHMET! (typing effect)"
+  />
 </h1>
+
 
 
 I'm a Data Analyst & Business Intelligence practitioner focused on turning production & quality data into decisions.

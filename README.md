@@ -27,13 +27,11 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Presentation & Communication:** Data Storytelling and Presentation
 
 <p align="left">
-  <img src="assets/icons/powerbi.svg" height="32" alt="Power BI"/>
-  <img src="assets/icons/microsoftexcel.svg" height="32" alt="Excel"/>
-  <img src="assets/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
-  <img src="assets/icons/visualbasic.svg" height="32" alt="VBA"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=fff" alt="Visual Basic for Applications"/>
 </p>
-
-
 
 
 <!-- === GitHub istatistikleri (Kullanıcı adını değiştir) === -->

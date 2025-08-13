@@ -74,17 +74,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-----
-### Featured Projects
-<p align="left">
-  <!-- repo adlarını değiştir -->
-  <a href="https://github.com/mehmetdemiir/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetdemiir&repo=PROJECT_1&show_owner=true" height="140" />
-  </a>
-  <a href="https://github.com/mehmetdemiir/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetdemiir&repo=PROJECT_2&show_owner=true" height="140" />
-  </a>
-</p>
+
 
 
 

@@ -29,16 +29,15 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="55" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="55" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="55" alt="SQL Server"/>
+  <a href="https://powerbi.microsoft.com/" title="Power BI">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="32" alt="Power BI"/>
+  </a>&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="32" alt="Excel"/>
+  </a>&nbsp;
+  <a href="https://www.microsoft.com/sql-server" title="Microsoft SQL Server">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/ico
 
-  <!-- VBA ikonu + metin -->
-  <span>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="55" alt="VBA"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autocad.svg" height="55" alt="AutoCAD"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidworks.svg" height="55" alt="SOLIDWORKS"/>
-</p>
 
 
 

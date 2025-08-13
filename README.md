@@ -1,4 +1,8 @@
-<h1 align="left">HI! I'M MEHMET! 👋</h1>
+<h1 align="left">
+  HI! I'M MEHMET!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="waving hand"/>
+</h1>
+
 
 I'm a Data Analyst & Business Intelligence practitioner focused on turning production & quality data into decisions.
 I build reproducible reports and interactive dashboards with **Power BI, SQL Server, Excel/VBA**.

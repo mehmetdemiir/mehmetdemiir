@@ -17,7 +17,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 ---
 
 ## 📫 How to Reach Me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmetf-y/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://[www.linkedin.com/in/mehmet-demir-ab992b135/)
 
 ### My Skills and Tools
 

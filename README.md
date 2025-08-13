@@ -16,7 +16,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 I am currently applying this passion in my professional life at San Metal Sanayi ve Ticaret A.Ş.
 
-<a href="https://www.sanmetal.com.tr/en-us/sql-server" title="San Metal Sanayi ve Ticaret A.Ş.">
+<a href="https://www.sanmetal.com.tr/" title="San Metal Sanayi ve Ticaret A.Ş.">
   <img src="https://icons.duckduckgo.com/ip3/www.sanmetal.com.tr.ico" width="16" height="16" alt="San Metal favicon" />
   San Metal Sanayi ve Ticaret A.Ş.
 </a>.

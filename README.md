@@ -26,13 +26,15 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation
 
-<!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="40" alt="VBA"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="32" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="32" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="32" alt="VBA"/> <b>VBA</b>
+  </span>
 </p>
+
 
 
 

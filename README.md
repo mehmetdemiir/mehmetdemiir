@@ -1,3 +1,12 @@
+<h1 align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
+    alt="HI! I'M MEHMET! (typing effect)"
+  />
+</h1>
+
+
+
 <!-- === Basit dalga efekti (üst) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2F80ED,100:22C55E&section=header" width="100%" alt="decorative divider"/>
 

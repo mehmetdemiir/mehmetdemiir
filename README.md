@@ -30,16 +30,22 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="32" alt="Power BI"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="60" alt="Power BI"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="32" alt="Excel"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="60" alt="Excel"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="60" alt="SQL Server"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
     <img src="https://img.shields.io/badge/VBA-812328?style=flat&logo=visual-basic-for-applications&logoColor=white" alt="VBA"/>
+  </a>
+  <a href="https://www.autodesk.com/autocad">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autocad.svg" height="60" alt="AutoCAD"/>
+  </a>
+  <a href="https://www.zeiss.com/metrology/products/software/inspect.html">
+    <img src="https://img.shields.io/badge/ZEISS_INSPECT-00366D?style=flat&logoColor=white" alt="ZEISS INSPECT"/>
   </a>
 </p>
 

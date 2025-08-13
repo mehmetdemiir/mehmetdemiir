@@ -85,40 +85,6 @@ I am currently applying this passion in my professional life at San Metal Sanayi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetdemiir&repo=PROJECT_2&show_owner=true" height="140" />
   </a>
 </p>
------
-### Selected Dashboards
-<!-- /assets altında PNG/GIF koy ve linkleri repo/Power BI paylaşımına ver -->
-<p align="left">
-  <a href="https://github.com/mehmetdemiir/PROJECT_1">
-    <img src="assets/dashboards/project1.png" height="140" alt="Project 1 Dashboard">
-  </a>
-  <a href="https://github.com/mehmetdemiir/PROJECT_2">
-    <img src="assets/dashboards/project2.png" height="140" alt="Project 2 Dashboard">
-  </a>
-  <a href="https://github.com/mehmetdemiir/PROJECT_3">
-    <img src="assets/dashboards/project3.png" height="140" alt="Project 3 Dashboard">
-  </a>
-</p>
------
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=mehmetdemiir&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-</p>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetdemiir&theme=flat&no-frame=true&no-bg=true&margin-w=10" height="120" />
-</p>
------
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,sqlite,postgres,py,git,github,vscode" height="32" />
-</p>
------
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,sqlite,postgres,py,git,github,vscode" height="32" />
-</p>
------
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehmet-demir-ab992b135/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="mailto:mehmetdemiir.60@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
-</p>
 
 
 

@@ -72,6 +72,9 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>
 
+### 📊 İstatistikler
+
+[![Power BI Dashboard İndirme Sayısı](https://img.shields.io/github/downloads/mehmetdemiir/powerb_dashboard/total?style=flat&label=İndirme%20Sayısı)](https://github.com/mehmetdemiir/powerb_dashboard/releases)
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 

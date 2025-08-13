@@ -41,10 +41,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="55" alt="VBA"/>
   </a>
-  <a href="https://www.solidworks.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidworks.svg" height="55" alt="SolidWorks"/>
-  </a>
-</p>
+
 
 
 

@@ -48,9 +48,9 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" height="160" />
 </p>
 
 <p align="right">
@@ -60,9 +60,6 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 ----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" height="160" />
-</p>
+
 
 

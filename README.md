@@ -8,6 +8,8 @@
 <!-- === Basit dalga efekti (üst) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2F80ED,100:22C55E&section=header" width="100%" alt="decorative divider"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a237e,100:512da8&section=header" width="100%" alt="decorative divider"/>
+
 I am a Data Analyst and Business Intelligence practitioner who is passionate about the power of data. 📊
 
 My greatest motivation is to transform raw data into meaningful insights that drive strategic decisions. Using tools like Power BI, Excel, SQL, and VBA, I create dynamic reports and interactive dashboards that make business processes more efficient.

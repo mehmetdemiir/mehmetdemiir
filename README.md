@@ -1,11 +1,3 @@
-<h1 align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
-    alt="HI! I'M MEHMET! (typing effect)"
-  />
-</h1>
-
-
 <!-- === Basit dalga efekti (üst) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2F80ED,100:22C55E&section=header" width="100%" alt="decorative divider"/>
 
@@ -32,16 +24,11 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff" alt="VBA"/>
 </p>
 
-<!-- === Yetenek Grafiği (QuickChart) — değerleri istersen değiştir === -->
-<p align="left">
-  <img
-    src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Power BI','Excel','SQL','VBA'],datasets:[{label:'Skill level',data:[90,85,80,70]}]},options:{plugins:{legend:{display:false}},scales:{r:{min:0,max:100,ticks:{stepSize:20}}}}}&w=420&h=300&bkg=white"
-    alt="Skills radar chart"/>
-</p>
+<!-- === GitHub istatistikleri (Kullanıcı adını değiştir) === -->
+<!-- <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" height="160" alt="GitHub stats"/>
+  <img s
 
-
-<!-- === Basit dalga efekti (alt) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>
 
 
 ---

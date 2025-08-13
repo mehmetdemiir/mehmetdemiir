@@ -26,12 +26,22 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation
 
+<!-- === Renkli ikon kutuları (Simple Icons + CSS) === -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=fff" alt="Visual Basic for Applications"/>
+  <span style="display:inline-flex;align-items:center;justify-content:center;background:#F2C811;border-radius:8px;padding:6px;margin-right:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="20" alt="Power BI" style="filter:invert(100%);" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;background:#217346;border-radius:8px;padding:6px;margin-right:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="20" alt="Excel" style="filter:invert(100%);" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;background:#CC2927;border-radius:8px;padding:6px;margin-right:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="20" alt="SQL Server" style="filter:invert(100%);" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;background:#5C2D91;border-radius:8px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="20" alt="VBA" style="filter:invert(100%);" />
+  </span>
 </p>
+
 
 
 <!-- === GitHub istatistikleri (Kullanıcı adını değiştir) === -->

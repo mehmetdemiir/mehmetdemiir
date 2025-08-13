@@ -31,9 +31,8 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="32" alt="Excel"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="32" alt="VBA"/> <b>VBA</b>
-  </span>
-</p>
+  <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=fff" alt="VBA"/>
+
 
 
 

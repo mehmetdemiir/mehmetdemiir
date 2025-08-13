@@ -49,6 +49,13 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="55" alt="VBA"/>
   </a>
+  <a href="https://powerapps.microsoft.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="55" alt="Power Apps"/>
+  </a>
+  <a href="https://powerautomate.microsoft.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="55" alt="Power Automate"/>
+  </a>
+</p>
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>

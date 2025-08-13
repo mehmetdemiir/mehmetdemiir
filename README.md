@@ -16,13 +16,9 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 I am currently applying this passion in my professional life at San Metal Sanayi ve Ticaret A.Ş.
 
-İŞLENDİ: \<a href="[https://www.sanmetal.com.tr/](https://www.sanmetal.com.tr/)" title="San Metal Sanayi ve Ticaret A.Ş."\>
-\<img src="http://googleusercontent.com/file_content/1" width="24" height="24" alt="San Metal Logo" /\>
-San Metal Sanayi ve Ticaret A.Ş.
-\</a\>
-
-
-
+<a href="https://www.sanmetal.com.tr/" title="San Metal Sanayi ve Ticaret A.Ş.">
+  San Metal Sanayi ve Ticaret A.Ş.
+</a>
 
 ---
 

@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="waving hand"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=2500&pause=700&center=false&vCenter=false&width=380&lines=HI!+I'M+MEHMET!+👋)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
 I'm a Data Analyst & Business Intelligence practitioner focused on turning production & quality data into decisions.
 I build reproducible reports and interactive dashboards with **Power BI, SQL Server, Excel/VBA**.

@@ -59,7 +59,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 </p>
 
 <!-- === Basit dalga efekti (alt) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 
 <p align="left">

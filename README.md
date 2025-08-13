@@ -29,18 +29,19 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" title="Power BI">
+  <a href="https://powerbi.microsoft.com/">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="32" alt="Power BI"/>
-  </a>&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel">
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="32" alt="Excel"/>
-  </a>&nbsp;
-  <a href="https://www.microsoft.com/sql-server" title="Microsoft SQL Server">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/ico
-
-
-
-
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="32" alt="SQL Server"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="32" alt="VBA"/>
+  </a>
+</p>
 
 
 

@@ -38,11 +38,6 @@ I am currently applying this passion in my professional life at San Metal Sanayi
     alt="Skills radar chart"/>
 </p>
 
-<!-- === GitHub istatistikleri (Kullanıcı adını değiştir) === -->
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" height="160" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" height="160" alt="GitHub streak"/>
-</p> -->
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>

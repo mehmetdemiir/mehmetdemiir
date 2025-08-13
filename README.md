@@ -1,3 +1,10 @@
+<h1 align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
+    alt="HI! I'M MEHMET! (typing effect)"
+  />
+</h1>
+
 <!-- === Basit dalga efekti (üst) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2F80ED,100:22C55E&section=header" width="100%" alt="decorative divider"/>
 
@@ -19,13 +26,15 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation
 
-<!-- === Rozetler (isteğe bağlı renkli görseller) === -->
+<!-- === Rozetler (Simple Icons) === -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" alt="SQL"/>
-  <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff" alt="VBA"/>
+  <!-- İstersen bağlantı da verebilirsin: <a href="..."><img ... /></a> -->
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="32" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="32" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="32" alt="SQL Server"/>
+  <img src="https://cdn.simpleicons.org/visualbasic/5C2D91" height="32" alt="VBA"/>
 </p>
+
 
 <!-- === GitHub istatistikleri (Kullanıcı adını değiştir) === -->
 <!-- <p>

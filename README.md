@@ -15,7 +15,10 @@ My greatest motivation is to transform raw data into meaningful insights that dr
 Feel free to explore my projects! I'm always ready to create data-driven solutions. ✨
 
 I am currently applying this passion in my professional life at San Metal Sanayi ve Ticaret A.Ş.
-  <a href="https://www.sanmetal.com.tr/en-us/sql-server">  
+<a href="https://www.sanmetal.com.tr/en-us/sql-server" title="San Metal Sanayi ve Ticaret A.Ş.">
+  <img src="https://www.google.com/s2/favicons?domain=www.sanmetal.com.tr&sz=64" width="16" height="16" alt="San Metal"/> San Metal Sanayi ve Ticaret A.Ş.
+</a>.
+
 
 ---
 

@@ -15,6 +15,7 @@ My greatest motivation is to transform raw data into meaningful insights that dr
 
 Feel free to explore my projects! I'm always ready to create data-driven solutions. ✨
 
+
 I am currently applying this passion in my professional life at San Metal Sanayi ve Ticaret A.Ş.
 
 <a href="https://www.sanmetal.com.tr/" title="San Metal Sanayi ve Ticaret A.Ş.">

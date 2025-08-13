@@ -38,22 +38,22 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="47" alt="Power BI"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="50" alt="Power BI"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="47" alt="Excel"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="50" alt="Excel"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="47" alt="SQL Server"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="50" alt="SQL Server"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="47" alt="VBA"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="50" alt="VBA"/>
   </a>
   <a href="https://powerapps.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="47" alt="Power Apps"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="50" alt="Power Apps"/>
   </a>
   <a href="https://powerautomate.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="47" alt="Power Automate"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="50" alt="Power Automate"/>
   </a>
 </p>
 

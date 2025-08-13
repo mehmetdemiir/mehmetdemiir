@@ -6,7 +6,6 @@
 </h1>
 
 <!-- === Basit dalga efekti (üst) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2F80ED,100:22C55E&section=header" width="100%" alt="decorative divider"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a237e,100:512da8&section=header" width="100%" alt="decorative divider"/>
 

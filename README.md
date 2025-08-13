@@ -23,7 +23,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation
 
-<!-- === Rozetler (isteğe bağlı renkli görseller) === -->
+<!-- === Rozetler (araç rozeti örnekleri) === -->
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff" alt="Excel"/>
@@ -31,13 +31,15 @@ I am currently applying this passion in my professional life at San Metal Sanayi
   <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff" alt="VBA"/>
 </p>
 
-<!-- === Yetenek Grafiği (QuickChart) — değerleri istersen değiştir === -->
+---
+
+### Dynamic Counters
 <p align="left">
-  <img
-    src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Power BI','Excel','SQL','VBA'],datasets:[{label:'Skill level',data:[90,85,80,70]}]},options:{plugins:{legend:{display:false}},scales:{r:{min:0,max:100,ticks:{stepSize:20}}}}}&w=420&h=300&bkg=white"
-    alt="Skills radar chart"/>
-</p>
+  <!-- Profil görüntülenme sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <!-- Takipçi sayısı (GitHub API'den dinamik) -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_GITHUB_USERNAME&query=$.followers&label=Followers&logo=github&style=flat" alt="GitHub followers"/>
+  <!-- Public repo sayısı -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_GITHUB_USERNAME&query=$.public_repos&label=Public%20Repos&logo=github&style=flat" alt="Public repos"/>
+  <!-- Public gist s
 
-
-<!-- === Basit dalga efekti (alt) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22C55E,100:2F80ED&section=footer" width="100%" alt="decorative divider"/>

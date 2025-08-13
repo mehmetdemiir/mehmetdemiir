@@ -27,7 +27,7 @@ I am currently applying this passion in my professional life at San Metal Sanayi
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehmetdemiir.60@gmail.com)
 
 
-### My Skills and Tools
+## 🚀 My Skills and Tools
 
 * **Data Analysis & Modeling:** Excel, SQL, Power BI
 * **Business Intelligence (BI):** Power BI Dashboard Design, Reporting

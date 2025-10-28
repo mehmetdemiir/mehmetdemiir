@@ -27,7 +27,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🚀 My Skills and Tools
 
-* **Data Analysis & Modeling:** Excel, SQL, Power BI
+* **Data Analysis & Modeling:** Excel, SQL, Power BI, AI
 * **Business Intelligence (BI):** Power BI Dashboard Design, Reporting
 * **Automation & Data Manipulation:** VBA, SQL
 * **Presentation & Communication:** Data Storytelling and Presentation

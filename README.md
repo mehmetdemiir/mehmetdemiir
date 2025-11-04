@@ -224,3 +224,47 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
   <img src="https://progress-bar.dev/90/?title=Innovation&width=300&color=8E24AA&suffix=%" alt="AI Automation Progress"/>
 </p>
 
+## 🧩 Skill Usage Analysis  
+
+<p align="center">
+  <!-- Power BI (50%) -->
+  <svg width="120" height="120" viewBox="0 0 36 36">
+    <path fill="none" stroke="#F2C811" stroke-width="3"
+          stroke-dasharray="50, 100" d="M18 2.0845
+          a 15.9155 15.9155 0 0 1 0 31.831
+          a 15.9155 15.9155 0 0 1 0 -31.831"/>
+    <text x="18" y="20.35" fill="#F2C811" font-size="3" text-anchor="middle">Power BI</text>
+  </svg>  
+
+  <!-- SQL (25%) -->
+  <svg width="120" height="120" viewBox="0 0 36 36">
+    <path fill="none" stroke="#1E88E5" stroke-width="3"
+          stroke-dasharray="25, 100" d="M18 2.0845
+          a 15.9155 15.9155 0 0 1 0 31.831
+          a 15.9155 15.9155 0 0 1 0 -31.831"/>
+    <text x="18" y="20.35" fill="#1E88E5" font-size="3" text-anchor="middle">SQL</text>
+  </svg>  
+
+  <!-- Excel (15%) -->
+  <svg width="120" height="120" viewBox="0 0 36 36">
+    <path fill="none" stroke="#43A047" stroke-width="3"
+          stroke-dasharray="15, 100" d="M18 2.0845
+          a 15.9155 15.9155 0 0 1 0 31.831
+          a 15.9155 15.9155 0 0 1 0 -31.831"/>
+    <text x="18" y="20.35" fill="#43A047" font-size="3" text-anchor="middle">Excel</text>
+  </svg>  
+
+  <!-- VBA (10%) -->
+  <svg width="120" height="120" viewBox="0 0 36 36">
+    <path fill="none" stroke="#7C4DFF" stroke-width="3"
+          stroke-dasharray="10, 100" d="M18 2.0845
+          a 15.9155 15.9155 0 0 1 0 31.831
+          a 15.9155 15.9155 0 0 1 0 -31.831"/>
+    <text x="18" y="20.35" fill="#7C4DFF" font-size="3" text-anchor="middle">VBA</text>
+  </svg>
+</p>
+
+<p align="center">
+  <b style="color:#5E35B1;">📊 Data-driven visualization of my most used tools</b>
+</p>
+

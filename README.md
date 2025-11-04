@@ -1,7 +1,8 @@
-<h1 align="left">
+<!-- === Animated Header with Blue Glow === -->
+<h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=700&vCenter=true&width=320&color=2F80ED&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET!"
-    alt="HI! I'M MEHMET! (typing effect)"
+    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=500&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Insights!"
+    alt="Typing Animation"
   />
 </h1>
 
@@ -36,24 +37,25 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="50" alt="Power BI"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="50" alt="Excel"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45" alt="Power BI"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="50" alt="SQL Server"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="50" alt="VBA"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45" alt="Excel"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vba.svg" height="45" alt="VBA"/>
   </a>
   <a href="https://powerapps.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="50" alt="Power Apps"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="45" alt="Power Apps"/>
   </a>
   <a href="https://powerautomate.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="50" alt="Power Automate"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="45" alt="Power Automate"/>
   </a>
 </p>
+
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

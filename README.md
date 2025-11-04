@@ -52,17 +52,6 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetdemiir&theme=default" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=donut&theme=default" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=donut-vertical&theme=default" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=pie&theme=default" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&bg_color=ffffff&title_color=1E88E5&text_color=000000&icon_color=7C4DFF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css,javascript&langs_count=8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&border_color=1E88E5&border_radius=10" height="160"/>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="180"/>
 </p>
   

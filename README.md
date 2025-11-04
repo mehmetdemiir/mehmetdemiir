@@ -59,11 +59,26 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## ⚡ Contribution Highlights  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=FFFFFF&color=40C463&line=30A14E&point=216E39&area_color=40C463&area=true&hide_border=true&custom_title=Activity%20Graph&radius=12&height=280" 
+    src="https://github-readme-activity-graph.vercel.app/graph?
+    username=mehmetdemiir
+    &bg_color=FFFFFF
+    &color=40C463
+    &line=30A14E
+    &point=216E39
+    &area_color=40C463
+    &area=true
+    &hide_border=true
+    &custom_title=Activity%20Graph
+    &radius=12
+    &height=280
+    &title_color=000000
+    &text_color=000000
+    &font_size=18" 
     width="95%"
     alt="Mehmet Demir's Activity Graph"
   />
 </p>
+
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)

@@ -53,7 +53,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="200"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=1E88E5&line=1E88E5&point=7C4DFF&area=true&area_color=1E88E5&hide_border=false&border_color=1E88E5&custom_title=Commits%20by%20Hour&height=200" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=1E88E5&line=1E88E5&point=7C4DFF&area=true&area_color=1E88E5&hide_border=false&border_color=1E88E5&custom_title=Commits%20by%20Hour&height=200" height="200"/>
 </p>
 
 ## ⚡ Contribution Highlights  

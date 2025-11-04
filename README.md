@@ -55,8 +55,10 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" height="160" />
 </p>
+## 💼 Skills Distribution
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mehmetdemiir&layout=compact&theme=default" alt="Coding Stats" height="160" />
+  <img src="./skills-donut.svg" alt="Skills Distribution" width="400"/>
 </p>
  
 ## ⚡ Contribution Highlights  

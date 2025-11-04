@@ -56,7 +56,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ⚡ Contribution Highlights  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetdemiir&theme=default" width="98%"/>
+  <img src="https://ghchart.rshah.org/1E88E5/mehmetdemiir" width="98%" alt="Contribution Calendar"/>
 </p>
 
 

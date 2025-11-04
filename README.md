@@ -1,10 +1,11 @@
 <!-- === Animated Header with Blue Glow === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=500&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer"
+    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=600&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer"
     alt="Typing Animation"
   />
 </h1>
+
 
 <!-- === Basit dalga efekti (üst) === -->
 

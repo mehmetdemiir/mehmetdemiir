@@ -270,36 +270,39 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
 </p>
 
 
-## 📌 Skill Distribution
-
-<p align="center">
-  <svg width="220" height="220" viewBox="0 0 42 42" class="donut">
-    <!-- Background ring -->
-    <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#E6E6E6" stroke-width="3"></circle>
-
-    <!-- Power BI 50% -->
-    <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#1E88E5" stroke-width="3"
-      stroke-dasharray="50 50" stroke-dashoffset="25"></circle>
-
-    <!-- SQL 25% -->
-    <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#5E35B1" stroke-width="3"
-      stroke-dasharray="25 75" stroke-dashoffset="75"></circle>
-
-    <!-- Excel 15% -->
-    <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#7C4DFF" stroke-width="3"
-      stroke-dasharray="15 85" stroke-dashoffset="100"></circle>
-
-    <!-- VBA 10% -->
-    <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#43A047" stroke-width="3"
-      stroke-dasharray="10 90" stroke-dashoffset="115"></circle>
-
-    <!-- Center text -->
-    <text x="21" y="22.5" text-anchor="middle" dominant-baseline="middle" font-size="4"
-      fill="#5E35B1" font-weight="bold">Skills</text>
-  </svg>
-</p>
-<p align="center">
-  <small style="color:#5E35B1;">Skill breakdown by tool – hover in browser for clarity</small>
-</p>
-
-
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Power BI 50% -->
+  <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#1E88E5" stroke-width="3"
+    stroke-dasharray="50 50" stroke-dashoffset="25" transform="rotate(-90 21 21)"/>
+  
+  <!-- SQL 25% -->
+  <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#5E35B1" stroke-width="3"
+    stroke-dasharray="25 75" stroke-dashoffset="75" transform="rotate(-90 21 21)"/>
+  
+  <!-- Excel 15% -->
+  <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#7C4DFF" stroke-width="3"
+    stroke-dasharray="15 85" stroke-dashoffset="100" transform="rotate(-90 21 21)"/>
+  
+  <!-- VBA 10% -->
+  <circle cx="21" cy="21" r="15.9155" fill="transparent" stroke="#43A047" stroke-width="3"
+    stroke-dasharray="10 90" stroke-dashoffset="115" transform="rotate(-90 21 21)"/>
+  
+  <!-- Center text -->
+  <text x="21" y="23.5" text-anchor="middle" dominant-baseline="middle" font-size="5"
+    fill="#5E35B1" font-weight="bold">Skills</text>
+    
+  <!-- Legend -->
+  <g transform="translate(50, 5)">
+    <circle cx="0" cy="0" r="2" fill="#1E88E5"/>
+    <text x="5" y="1" font-size="4" fill="#333">Power BI (50%)</text>
+    
+    <circle cx="0" cy="10" r="2" fill="#5E35B1"/>
+    <text x="5" y="11" font-size="4" fill="#333">SQL (25%)</text>
+    
+    <circle cx="0" cy="20" r="2" fill="#7C4DFF"/>
+    <text x="5" y="21" font-size="4" fill="#333">Excel (15%)</text>
+    
+    <circle cx="0" cy="30" r="2" fill="#43A047"/>
+    <text x="5" y="31" font-size="4" fill="#333">VBA (10%)</text>
+  </g>
+</svg>

@@ -55,16 +55,14 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
     src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
     height="185" 
     width="420"
-    style="border: 2px solid #1E88E5; border-radius: 10px; padding: 6px;"
-  />
-</p>
-
-<p align="left" style="border: 2px solid #1E88E5; border-radius: 10px; display: inline-block; padding: 6px;">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
+<p align="center" style="border: 2px solid #1E88E5; border-radius: 10px; display: inline-block; padding: 6px;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&background=FFFFFF&ring=1E88E5&fire=7C4DFF&currStreakLabel=1E88E5&sideLabels=000000&dates=000000"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&background=FFFFFF&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B"
     alt="Mehmet Demir's GitHub Streak"
-    width="420"
-    height="185"
+    width="480"
+    height="180"
   />
 </p>
 

@@ -55,6 +55,10 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
  
 ## ⚡ Contribution Highlights  
 <p align="center">

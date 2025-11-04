@@ -70,56 +70,25 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-<!-- === Contribution Section Başlangıcı === -->
-<h2 align="center">🌿 GitHub Contributions Overview</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=388E3C&line=2E7D32&point=66BB6A&area=true&hide_border=true" 
-    alt="Mehmet Demir's Contribution Graph" 
-    width="95%"/>
-</p>
-
-<!-- === Ayrım Çizgisi === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:43A047,33:2E7D32,66:1B5E20,100:66BB6A&section=footer" width="100%" alt="decorative divider"/>
-
-<!-- === İstatistik Bölümü Başlangıcı === -->
-<h2 align="center">📊 GitHub Insights & Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default&title_color=2E7D32&icon_color=388E3C&text_color=1B5E20" alt="Mehmet's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&title_color=2E7D32&text_color=1B5E20" alt="Top Languages" height="160" />
-</p>
-
-<!-- === Profil Görüntüleme === -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=43A047&style=flat" alt="Profile views"/>
-</p>
-
-
-<!-- === Hafif alt dalga efekti === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
-
-
 <!-- === Animated Header === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=25&duration=2500&pause=700&center=true&vCenter=true&width=500&color=2E7D32&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Decisions!"
+    src="https://readme-typing-svg.demolab.com?size=25&duration=2500&pause=700&center=true&vCenter=true&width=500&color=7C4DFF&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Insights!"
     alt="Typing Animation"
   />
 </h1>
 
 <!-- === Üst Dalga Efekti === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,50:43A047,100:2E7D32&section=header" width="100%" alt="decorative divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,50:5E35B1,100:7C4DFF&section=header" width="100%" alt="decorative divider"/>
 
 ---
 
 ## 👋 About Me  
 
-I’m a **Data Analyst & Business Intelligence Developer** passionate about turning **raw data into actionable insights**.  
-Using **Power BI, SQL, Excel and AI**, I build dashboards that *transform complex data into clear stories*.  
+I’m a **Data Analyst & Business Intelligence Developer** passionate about transforming **raw data into impactful stories**.  
+Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that connect business logic with visual clarity.  
 
-✨ *My mission:* Leverage data to make smarter business decisions and create value through automation, analytics, and visualization.  
+✨ *My focus:* Helping organizations make smarter, data-driven decisions powered by analytics and automation.  
 
 ---
 
@@ -151,35 +120,31 @@ Using **Power BI, SQL, Excel and AI**, I build dashboards that *transform comple
 ## ⚙️ GitHub Insights & Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default&title_color=2E7D32&icon_color=43A047&text_color=1B5E20" alt="Mehmet's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&title_color=2E7D32&text_color=1B5E20" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default&title_color=5E35B1&icon_color=7C4DFF&text_color=1E88E5" alt="Mehmet's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&title_color=5E35B1&text_color=1E88E5" alt="Top Languages" height="160" />
 </p>
 
 ---
 
-## 🌿 Contribution Activity  
+## 💜 Contribution Activity  
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=388E3C&line=2E7D32&point=66BB6A&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=7C4DFF&line=5E35B1&point=1E88E5&area=true&hide_border=true" 
     alt="Mehmet Demir's Contribution Graph" 
     width="95%"/>
 </p>
 
 ---
 
-## 🚀 “Turning Data Into Impact”
+## 🚀 Turning Data Into Insight  
 
-> “Every dataset hides a story. My role is to find it, visualize it, and make it matter.”  
+> “Every number tells a story — my job is to make that story visible.”  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2E7D32,50:43A047,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7C4DFF,50:5E35B1,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=43A047&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=5E35B1&style=flat" alt="Profile views"/>
 </p>
-
-
-
-
 
 

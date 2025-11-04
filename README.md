@@ -306,4 +306,40 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
   <small style="color:#7C4DFF;">Power BI • SQL • Excel • VBA</small>
 </p>
 
+## 🧩 Skill Usage (Donut Chart)
+
+<p align="center">
+  <svg width="300" height="300" viewBox="0 0 42 42" class="donut">
+    <!-- Taban gri çember -->
+    <circle class="donut-ring" cx="21" cy="21" r="15.9155" fill="transparent"
+      stroke="#E6E6E6" stroke-width="3"></circle>
+
+    <!-- Power BI (50%) -->
+    <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent"
+      stroke="#F2C811" stroke-width="3" stroke-dasharray="50 50" stroke-dashoffset="25"></circle>
+
+    <!-- SQL (25%) -->
+    <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent"
+      stroke="#1E88E5" stroke-width="3" stroke-dasharray="25 75" stroke-dashoffset="75"></circle>
+
+    <!-- Excel (15%) -->
+    <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent"
+      stroke="#43A047" stroke-width="3" stroke-dasharray="15 85" stroke-dashoffset="100"></circle>
+
+    <!-- VBA (10%) -->
+    <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent"
+      stroke="#7C4DFF" stroke-width="3" stroke-dasharray="10 90" stroke-dashoffset="115"></circle>
+
+    <!-- Merkezdeki yüzde -->
+    <g class="chart-text">
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="4" fill="#5E35B1" font-weight="bold">Skills</text>
+    </g>
+  </svg>
+
+  <br>
+  <b style="color:#5E35B1;">📊 Power BI Style Skill Distribution</b><br>
+  <small style="color:#7C4DFF;">Power BI • SQL • Excel • VBA</small>
+</p>
+
 

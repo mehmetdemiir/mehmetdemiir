@@ -101,6 +101,85 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 
+<!-- === Animated Header === -->
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=25&duration=2500&pause=700&center=true&vCenter=true&width=500&color=2E7D32&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Decisions!"
+    alt="Typing Animation"
+  />
+</h1>
+
+<!-- === Üst Dalga Efekti === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,50:43A047,100:2E7D32&section=header" width="100%" alt="decorative divider"/>
+
+---
+
+## 👋 About Me  
+
+I’m a **Data Analyst & Business Intelligence Developer** passionate about turning **raw data into actionable insights**.  
+Using **Power BI, SQL, Excel and AI**, I build dashboards that *transform complex data into clear stories*.  
+
+✨ *My mission:* Leverage data to make smarter business decisions and create value through automation, analytics, and visualization.  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-ab992b135/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehmetdemiir.60@gmail.com)
+
+---
+
+## 🧠 My Core Skills & Toolset  
+
+**Data Analysis & Modeling:** Power BI, Excel, SQL, AI  
+**Business Intelligence:** Dashboard Design & Reporting  
+**Automation & Data Manipulation:** VBA, SQL  
+**Presentation & Storytelling:** Data Visualization & Communication  
+
+<p align="center">
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45" alt="Power BI"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45" alt="Excel"/></a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="45" alt="VBA"/></a>
+  <a href="https://powerapps.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="45" alt="Power Apps"/></a>
+  <a href="https://powerautomate.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="45" alt="Power Automate"/></a>
+</p>
+
+---
+
+## ⚙️ GitHub Insights & Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default&title_color=2E7D32&icon_color=43A047&text_color=1B5E20" alt="Mehmet's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&title_color=2E7D32&text_color=1B5E20" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 🌿 Contribution Activity  
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=388E3C&line=2E7D32&point=66BB6A&area=true&hide_border=true" 
+    alt="Mehmet Demir's Contribution Graph" 
+    width="95%"/>
+</p>
+
+---
+
+## 🚀 “Turning Data Into Impact”
+
+> “Every dataset hides a story. My role is to find it, visualize it, and make it matter.”  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2E7D32,50:43A047,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=43A047&style=flat" alt="Profile views"/>
+</p>
+
+
+
 
 
 

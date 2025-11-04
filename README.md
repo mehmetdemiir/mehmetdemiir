@@ -1,7 +1,7 @@
 <!-- === Animated Header with Blue Glow === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=500&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Insights!"
+    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=500&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%25+Power+BI+Developer;Transforming+Data+into+Insights!"
     alt="Typing Animation"
   />
 </h1>
@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,33:1976D2,66:303F9F,100:5E35B1&section=header" width="100%" alt="decorative divider"/>
 
-## About Me 😎 
+## 😎 About Me  
 
 I am a Data Analyst and Business Intelligence practitioner who is passionate about the power of data. 📊
 

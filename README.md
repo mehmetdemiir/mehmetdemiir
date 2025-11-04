@@ -59,8 +59,8 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## ⚡ Contribution Highlights  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=000000&line=1E88E5&point=7C4DFF&area=true&area_color=1E88E5&hide_border=true&custom_title=📊%20Contribution%20Activity%20Timeline" 
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=000000&line=1E88E5&point=7C4DFF&area=true&area_color=1E88E5&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Timeline&height=350" 
+    width="98%"
     alt="Activity Graph"
   />
 </p>

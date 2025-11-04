@@ -63,6 +63,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="180"/>
 </p>
   
 </p>

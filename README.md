@@ -70,13 +70,37 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-<!-- === Animated Header === -->
+<!-- === Animated Header with Blue Glow === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=25&duration=2500&pause=700&center=true&vCenter=true&width=500&color=7C4DFF&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Insights!"
+    src="https://readme-typing-svg.demolab.com?size=27&duration=2500&pause=700&center=true&vCenter=true&width=500&color=1E88E5&font=Montserrat&weight=800&lines=HI!+I'M+MEHMET+DEMIR;Data+Analyst+%26+Power+BI+Developer;Transforming+Data+into+Insights!"
     alt="Typing Animation"
   />
 </h1>
+
+<!-- === Glowing Gradient Effect (SVG overlay) === -->
+<p align="center">
+  <svg width="320" height="10">
+    <defs>
+      <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#1E88E5">
+          <animate attributeName="stop-color" values="#1E88E5;#5E35B1;#7C4DFF;#1E88E5" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#7C4DFF">
+          <animate attributeName="stop-color" values="#7C4DFF;#5E35B1;#1E88E5;#7C4DFF" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="320" height="10" fill="url(#glowGradient)" filter="url(#glow)" rx="5" ry="5" />
+  </svg>
+</p>
 
 <!-- === Üst Dalga Efekti === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E88E5,50:5E35B1,100:7C4DFF&section=header" width="100%" alt="decorative divider"/>
@@ -146,5 +170,4 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=5E35B1&style=flat" alt="Profile views"/>
 </p>
-
 

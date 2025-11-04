@@ -53,11 +53,10 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="180"/>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=000000&line=1E88E5&point=424242&area=true&area_color=1E88E5&hide_border=false&border_color=1E88E5&custom_title=Activity%20Timeline&height=180&title_size=14&label_size=12&days=31" 
-    height="180"
-    alt="Activity Graph"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border=1E88E5&ring=1E88E5&fire=7C4DFF&currStreakLabel=1E88E5" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true" height="180"/>
+  <img src="https://ghchart.rshah.org/1E88E5/mehmetdemiir" width="100%" alt="GitHub Contribution Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetdemiir&theme=default&utcOffset=3" height="180"/>
 </p>
 
 ## ⚡ Contribution Highlights  

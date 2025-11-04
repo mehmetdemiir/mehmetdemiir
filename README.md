@@ -55,26 +55,13 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default" alt="Mehmet's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default" alt="Top Languages" height="160" />
 </p>
-
+ 
 ## ⚡ Contribution Highlights  
-
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir
-    &bg_color=transparent
-    &color=7C4DFF
-    &line=5E35B1
-    &point=1E88E5
-    &area_color=7C4DFF
-    &area=true
-    &hide_border=true
-    &custom_title=Mehmet%20Demir%20-%20Power%20BI%20Contribution%20Timeline
-    &radius=12
-    &theme=react-dark
-    " 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=0D1117&color=7C4DFF&line=5E35B1&point=1E88E5&area_color=7C4DFF&area=true&hide_border=true&custom_title=Mehmet%20Demir%20-%20Power%20BI%20Contribution%20Timeline&radius=12" 
     width="95%"
     alt="Mehmet Demir's Contribution Graph"
-    style="filter: drop-shadow(0px 0px 6px rgba(92, 80, 180, 0.6));"
   />
 </p>
 

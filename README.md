@@ -36,24 +36,12 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 <!-- === Rozetler (jsDelivr / Simple Icons) === -->
 <p align="left">
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45" alt="Power BI"/>
-  </a>  
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/>
-  </a>  
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45" alt="Excel"/>
-  </a>  
-  <a href="https://learn.microsoft.com/en-us/office/vba/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="45" alt="VBA"/>
-  </a>  
-  <a href="https://powerapps.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="45" alt="Power Apps"/>
-  </a>  
-  <a href="https://powerautomate.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="45" alt="Power Automate"/>
-  </a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45" alt="Power BI"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45" alt="Excel"/></a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" height="45" alt="VBA"/></a>
+  <a href="https://powerapps.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" height="45" alt="Power Apps"/></a>
+  <a href="https://powerautomate.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="45" alt="Power Automate"/></a>
 </p>
 
 

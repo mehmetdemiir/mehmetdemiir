@@ -52,7 +52,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border=1E88E5&ring=1E88E5&fire=7C4DFF&currStreakLabel=1E88E5&background=ffffff&stroke=1E88E5&border_radius=10" height="195" width="400"/>
+  <img src="https://ghchart.rshah.org/1E88E5/mehmetdemiir" height="195" width="400" alt="Contribution Chart"/>
 </p>
 ## ⚡ Contribution Highlights  
 <p align="center">

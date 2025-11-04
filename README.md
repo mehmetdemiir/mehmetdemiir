@@ -52,7 +52,9 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
-  <img src="https://visitcount.itsvg.in/api?id=mehmetdemiir&label=Profile%20Views&color=1&icon=5&pretty=true" height="195" width="400"/>
+  <div style="height:195px; width:400px; border:2px solid #1E88E5; border-radius:10px; background:white; display:flex; align-items:center; justify-content:center;">
+    <img src="https://profile-counter.glitch.me/mehmetdemiir/count.svg" alt="Visitor Count" />
+  </div>
 </p>
 
 ## ⚡ Contribution Highlights  

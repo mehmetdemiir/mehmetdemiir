@@ -161,3 +161,37 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=5E35B1&style=flat" alt="Profile views"/>
 </p>
 
+<!-- === 1️⃣ MY TECH STACK === -->
+## 💻 My Tech Stack  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>  
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>  
+  <img src="https://img.shields.io/badge/VBA-4B0082?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/>  
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>  
+  <img src="https://img.shields.io/badge/AI%20%26%20Copilot-8E24AA?style=for-the-badge&logo=openai&logoColor=white" alt="AI Copilot"/>
+</p>
+
+
+<!-- === 2️⃣ ANALYTICAL FOCUS === -->
+## 🧠 Analytical Focus  
+
+| Domain | Tools & Techniques |
+|:--------|:-----------------------------|
+| **Data Analysis** | Power BI, Excel, SQL |
+| **Automation** | VBA, Power Automate |
+| **AI Integration** | Copilot, ChatGPT |
+| **Visualization** | Dashboard Design, DAX |
+
+
+<!-- === 3️⃣ KEY PERFORMANCE HIGHLIGHTS === -->
+## 📊 Key Performance Highlights  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboards%20Built-45+-7C4DFF?style=for-the-badge" alt="Dashboards Built"/>  
+  <img src="https://img.shields.io/badge/DAX%20Functions%20Mastered-120+-5E35B1?style=for-the-badge" alt="DAX Mastery"/>  
+  <img src="https://img.shields.io/badge/Automations%20Created-30+-1E88E5?style=for-the-badge" alt="Automations Created"/>  
+  <img src="https://img.shields.io/badge/AI%20Integrations%20Done-10+-8E24AA?style=for-the-badge" alt="AI Integrations"/>
+</p>
+

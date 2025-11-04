@@ -56,9 +56,12 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ⚡ Contribution Highlights  
 <p align="center">
-  <img src="https://ghchart.rshah.org/1E88E5/mehmetdemiir" width="98%" alt="Contribution Calendar"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=000000&line=1E88E5&point=424242&area=true&area_color=1E88E5&hide_border=true&custom_title=Last%2030%20Days%20Activity&height=365&title_size=20&label_size=16" 
+    width="98%"
+    alt="Activity Graph"
+  />
 </p>
-
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 

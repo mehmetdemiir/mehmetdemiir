@@ -56,7 +56,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&hide_border=false&border_color=1E88E5&border_radius=10&title_color=1E88E5&text_color=000000&bg_color=ffffff" alt="Top Languages" height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_color=1E88E5&border_radius=10&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B"
     alt="Mehmet Demir's GitHub Streak"
   />
 </p>

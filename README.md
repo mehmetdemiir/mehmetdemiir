@@ -70,8 +70,6 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetdemir&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemir&layout=compact&theme=tokyonight)
 
 
 

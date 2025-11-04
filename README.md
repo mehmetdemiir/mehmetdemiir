@@ -59,9 +59,9 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## ⚡ Contribution Highlights  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=00000000&color=7C4DFF&line=5E35B1&point=1E88E5&area_color=7C4DFF&area=true&hide_border=true&custom_title=Mehmet%20Demir%20-%20Power%20BI%20Contribution%20Timeline&radius=12" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=00000000&color=40C463&line=30A14E&point=216E39&area_color=40C463&area=true&hide_border=true&custom_title=Activity%20Graph&radius=12&height=300" 
     width="95%"
-    alt="Mehmet Demir's Contribution Graph"
+    alt="Mehmet Demir's Activity Graph"
   />
 </p>
 

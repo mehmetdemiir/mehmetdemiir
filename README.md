@@ -195,3 +195,32 @@ Using **Power BI, Excel, SQL, and AI**, I craft interactive dashboards that conn
   <img src="https://img.shields.io/badge/AI%20Integrations%20Done-10+-8E24AA?style=for-the-badge" alt="AI Integrations"/>
 </p>
 
+
+## 🚀 Most Used Skills  
+
+<table>
+<tr>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/><br>
+  <img src="https://progress-bar.dev/95/?title=Usage&width=180&color=F2C811&suffix=%" alt="Power BI Progress"/>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/><br>
+  <img src="https://progress-bar.dev/85/?title=Usage&width=180&color=1E88E5&suffix=%" alt="SQL Progress"/>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/VBA-5E35B1?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/><br>
+  <img src="https://progress-bar.dev/75/?title=Usage&width=180&color=7C4DFF&suffix=%" alt="VBA Progress"/>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/><br>
+  <img src="https://progress-bar.dev/80/?title=Usage&width=180&color=43A047&suffix=%" alt="Excel Progress"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20&%20Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Automation"/><br>
+  <img src="https://progress-bar.dev/90/?title=Innovation&width=300&color=8E24AA&suffix=%" alt="AI Automation Progress"/>
+</p>
+

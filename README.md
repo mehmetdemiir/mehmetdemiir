@@ -60,7 +60,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
     src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&background=FFFFFF&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B"
     alt="Mehmet Demir's GitHub Streak"
     width="400"
-    height="160"
+    height="170"
   />
 </p>
 

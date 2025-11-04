@@ -52,8 +52,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
-  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&color=1E88E5&style=flat-square&label=PROFILE+VIEWS" height="195" width="400"/>
-</p>
+
 
 ## ⚡ Contribution Highlights  
 <p align="center">

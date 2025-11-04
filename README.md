@@ -54,6 +54,14 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&hide_border=false&border_color=1E88E5&border_radius=10&title_color=1E88E5&text_color=000000&bg_color=ffffff" alt="Top Languages" height="160" />
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&background=FFFFFF&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B"
+    alt="Mehmet Demir's GitHub Streak"
+  />
+</p>
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>

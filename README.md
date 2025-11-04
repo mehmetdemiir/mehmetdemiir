@@ -70,15 +70,32 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-<!-- === Contribution Graph Başlangıcı === -->
-<h2 align="center">📈 My Contribution Activity</h2>
+<!-- === Contribution Section Başlangıcı === -->
+<h2 align="center">🌿 GitHub Contributions Overview</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=1976D2&line=5E35B1&point=1E88E5&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=388E3C&line=2E7D32&point=66BB6A&area=true&hide_border=true" 
     alt="Mehmet Demir's Contribution Graph" 
     width="95%"/>
 </p>
+
+<!-- === Ayrım Çizgisi === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:43A047,33:2E7D32,66:1B5E20,100:66BB6A&section=footer" width="100%" alt="decorative divider"/>
+
+<!-- === İstatistik Bölümü Başlangıcı === -->
+<h2 align="center">📊 GitHub Insights & Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&count_private=true&hide=issues&theme=default&title_color=2E7D32&icon_color=388E3C&text_color=1B5E20" alt="Mehmet's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide=html,css&theme=default&title_color=2E7D32&text_color=1B5E20" alt="Top Languages" height="160" />
+</p>
+
+<!-- === Profil Görüntüleme === -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=43A047&style=flat" alt="Profile views"/>
+</p>
+
 
 <!-- === Hafif alt dalga efekti === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

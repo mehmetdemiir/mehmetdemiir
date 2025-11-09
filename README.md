@@ -23,7 +23,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ---
 
 ## 📫 How to Reach Me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-ab992b135/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-powermd)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehmetdemiir.60@gmail.com)
 
 

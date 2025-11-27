@@ -15,7 +15,7 @@
 
 I am a Data Analyst and Business Intelligence practitioner who is passionate about the power of data. 📊
 
-My greatest motivation is to transform raw data into meaningful insights that drive strategic decisions. Using tools like Power BI, Excel, SQL, and VBA, I create dynamic reports and interactive dashboards that make business processes more efficient.
+My greatest motivation is to transform raw data into meaningful insights that drive strategic decisions. Using tools like Power BI, SQL, Python, Excel and VBA, I create dynamic reports and interactive dashboards that make business processes more efficient.
 
 Feel free to explore my projects! I'm always ready to create data-driven solutions. ✨
 

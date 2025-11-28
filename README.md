@@ -51,19 +51,21 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 ## 🔎 GitHub Insights & Stats
-<div style="display: flex; gap: 10px; flex-wrap: nowrap;" align="left">
+
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; border: none; background: transparent;" align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
     height="195" 
     width="420"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
     height="195"
     width="240"
   />
 </div>
+
 
 
 <p align="right">

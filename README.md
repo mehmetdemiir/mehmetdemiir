@@ -52,17 +52,15 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🔎 GitHub Insights & Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true" height="195" alt="Mehmet Demir Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true" height="195" alt="Top Languages" />
+<div align="left" style="display: flex; gap: 10px; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&hide_border=false&border_radius=12" height="195" style="border: 2px solid #1E88E5; border-radius: 12px;" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&hide_border=false&border_radius=12" height="195" style="border: 2px solid #1E88E5; border-radius: 12px;" alt="Top Languages"/>
 </div>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>
-
-
 
 
 ## ⚡ Contribution Highlights  

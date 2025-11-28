@@ -62,12 +62,6 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>
 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
-</p>
-
-
 ## ⚡ Contribution Highlights  
 <p align="center">
   <img 

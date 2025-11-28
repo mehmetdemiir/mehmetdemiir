@@ -51,11 +51,15 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 ## 🔎 GitHub Insights & Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&bg_color=ffffff&title_color=1E88E5&text_color=333333&icon_color=1E88E5&hide_border=false&border_color=1E88E5&border_radius=12" height="200" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&bg_color=ffffff&title_color=1E88E5&text_color=333333&hide_border=false&border_color=1E88E5&border_radius=12" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" alt="Mehmet Demir Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" alt="Top Languages" />
 </div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
+</p>
 
 
 

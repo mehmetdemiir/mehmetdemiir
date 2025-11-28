@@ -53,12 +53,12 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemir&show_icons=true&theme=default&hide_border=true&border_radius=10" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemir&theme=default&hide_border=true&border_radius=10" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" alt="Mehmet Demir Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" alt="Top Languages" />
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mehmetdemir&label=Profile%20views&hide_border=true&style=flat&border_radius=10" height="30" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>
 
 

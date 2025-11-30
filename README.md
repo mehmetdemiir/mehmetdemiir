@@ -52,21 +52,22 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🔎 GitHub Insights & Stats
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; padding:16px 0;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; padding:10px 0;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12&include_all_commits=true" 
-    height="195" 
-    alt="GitHub Stats Card"
+    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10" 
+    height="180"
+    alt="GitHub Stats"
   >
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12" 
-    height="195" 
-    alt="Top Languages Card"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&hide_border=true&border_radius=10" 
+    height="180"
+    alt="GitHub Languages"
   >
 
 </div>
+
 
 
 <p align="center">

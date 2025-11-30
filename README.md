@@ -57,6 +57,14 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img src="./longest_streak.svg" alt="Longest Streak" />
 </p>
 
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
+    height="195" 
+    alt="GitHub Streak Stats" 
+  />
+</div>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>

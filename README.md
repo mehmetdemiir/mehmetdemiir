@@ -52,10 +52,22 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🔎 GitHub Insights & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" height="195" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&bg_color=ffffff&color=1E88E5&line=1E88E5&point=7C4DFF&area=true&area_color=1E88E5&hide_border=false&border_color=1E88E5&border_width=2&custom_title=Commits%20by%20Hour&height=195&title_size=16&label_size=12&radius=10" height="195" width="600"/>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; padding:16px 0;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12&include_all_commits=true" 
+    height="195" 
+    alt="GitHub Stats Card"
+  >
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&theme=default&title_color=1E88E5&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12" 
+    height="195" 
+    alt="Top Languages Card"
+  >
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" alt="streak" />

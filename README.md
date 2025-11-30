@@ -50,16 +50,42 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
-## 🔎 GitHub Insights & Stats
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  
+### 🔥 Genel İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&layout=compact&langs_count=6" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=radical&icon_color=7C4DFF&title_color=1E88E5&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=radical&hide_border=true&border_radius=10&background=0d1117&ring=7C4DFF&fire=1E88E5&currStreakLabel=ffffff" width="49%" alt="GitHub Streak" />
 </p>
 
+### 💻 En Çok Kullandığım Diller
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=radical&title_color=1E88E5&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10&layout=compact&langs_count=8&card_width=445" alt="Top Languages" />
 </p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehmetdemiir&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📈 Katkı Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetdemiir&theme=react-dark&bg_color=0d1117&color=1E88E5&line=7C4DFF&point=ffffff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profil%20Görüntülenme&color=1E88E5&style=flat-square" alt="Profile Views" />
+</div>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>

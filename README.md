@@ -51,11 +51,10 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 ## 🔎 GitHub Insights & Stats
-
 <p align="center">
-  <img src="./card1_contributions.svg" alt="Total Contributions" />
-  <img src="./card2_current_streak.svg" alt="Current Streak" />
-  <img src="./card3_longest_streak.svg" alt="Longest Streak" />
+  <img src="./total_contributions.svg" alt="Total Contributions" />
+  <img src="./current_streak.svg" alt="Current Streak" />
+  <img src="./longest_streak.svg" alt="Longest Streak" />
 </p>
 
 <p align="right">

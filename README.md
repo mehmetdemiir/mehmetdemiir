@@ -46,8 +46,15 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </p>
 
 ## ✍️ Dev Quote
-<img src="https://raw.githubusercontent.com/mehmetdemiir/mehmetdemiir/main/assets/quote.svg" alt="Dev Quote" />
+## 💬 Dev Quote
 
+<div align="center">
+  
+[![Quote](https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=ffffff&color=1E88E5)](https://github.com/mehmetdemiir)
+
+<sub>*Data is the fossil fuel of artificial intelligence.* — **Ilya Sutskever**</sub>
+
+</div>
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

@@ -47,12 +47,12 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ✍️ Dev Quote
 ## 💬 Dev Quote
-<p align="left">
-  <img 
-    src="https://custom-icon-badges.demolab.com/badge/Veri%2C%20yapay%20zekanın%20fosil%20yakıtıdır.%20Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence.%20%E2%80%94%20Ilya%20Sutskever-ffffff?style=for-the-badge&logo=quote&logoColor=1E88E5&labelColor=1E88E5&color=ffffff"
-    alt="Dev Quote"
-  />
-</p>
+
+<div align="left">
+  
+![Quote](https://svg-banners.vercel.app/api?type=luminance&text1=💬%20Veri,%20yapay%20zekanın%20fosil%20yakıtıdır&width=800&height=120)
+
+</div>
 
 
 <!-- === Basit dalga efekti (alt) === -->

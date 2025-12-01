@@ -48,6 +48,14 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## ✍️ Dev Quote
 ## 💬 Dev Quote
 ![Quote](https://svg-banners.vercel.app/api?type=ocean&text1=💎%20Wisdom&text2=Veri%2C%20yapay%20zekanın%20fosil%20yakıtıdır&width=800&height=150)
+## 💬 Dev Quote
+![Quote](https://svg-banners.vercel.app/api?type=rainbow&text1=Veri%20Bilimi&text2=Data%20is%20the%20fossil%20fuel%20of%20AI%20—%20Ilya%20Sutskever&width=800&height=150)
+## 💬 Dev Quote
+![Quote](https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20AI%20Quote&text2=Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence&width=800&height=150)
+## 💬 Dev Quote
+![Quote](https://svg-banners.vercel.app/api?type=typeWriter&text1=💭%20Dev%20Quote&text2=Veri%2C%20yapay%20zekanın%20fosil%20yakıtıdır&width=800&height=150)
+## 💬 Dev Quote
+![Quote](https://svg-banners.vercel.app/api?type=origin&text1=Veri%2C%20yapay%20zekanın%20fosil%20yakıtıdır&text2=Data%20is%20the%20fossil%20fuel%20of%20AI&width=800&height=150)
 
 
 

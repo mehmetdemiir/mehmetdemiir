@@ -25,8 +25,13 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 📫 How to Reach Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-powermd)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehmetdemiir.60@gmail.com)
-[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@mehmetdemiir)
-[![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://www.kaggle.com/mehmetdemiir)
+<a href="https://www.kaggle.com/mehmetdemiir" target="_blank">
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40">
+</a>
+
+<a href="https://medium.com/@mehmetdemiir" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/000000" height="40">
+</a>
 
 
 ## 🧠 My Core Skills & Toolset 

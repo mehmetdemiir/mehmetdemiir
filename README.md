@@ -47,8 +47,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ✍️ Dev Quote
 
-<img src="./quote-ilya.svg" width="800" alt="Data is the fossil fuel of artificial intelligence. - Ilya Sutskever">
-
+<img src="./ilya-data-quote.svg" alt="Veri, yapay zekanın fosil yakıtıdır - Ilya Sutskever" />
 
 
 <!-- === Basit dalga efekti (alt) === -->

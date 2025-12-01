@@ -48,11 +48,12 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## ✍️ Dev Quote
 ## 💬 Dev Quote
 
-<div align="center">
+<div align="left">
   
-[![Quote](https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=ffffff&color=1E88E5)](https://github.com/mehmetdemiir)
-
-<sub>*Data is the fossil fuel of artificial intelligence.* — **Ilya Sutskever**</sub>
+> **"** Veri, **yapay** zekanın **fosil yakıtı**dır.  
+> *Data is the fossil fuel of artificial intelligence.*
+> 
+> — **Ilya Sutskever**
 
 </div>
 

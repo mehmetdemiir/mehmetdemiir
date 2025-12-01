@@ -45,6 +45,16 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <a href="https://powerautomate.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="45" alt="Power Automate"/></a>
 </p>
 
+## ✍️ Dev Quote
+
+<p align="left">
+  <img 
+    src="https://readme-quote-card.vercel.app/api?text=Veri,%20yapay%20zekanın%20fosil%20yakıtıdır.%20Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence.&author=Ilya%20Sutskever&theme=light&borderColor=0A66C2&borderRadius=16&backgroundColor=ffffff&fontColor=4B2AFF&authorColor=8A2BE2&borderWidth=2"
+    alt="Veri, yapay zekanın fosil yakıtıdır. - Ilya Sutskever"
+  >
+</p>
+
+
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

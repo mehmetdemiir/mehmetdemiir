@@ -46,7 +46,13 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </p>
 
 ## ✍️ Dev Quote
-<img src="./ilya-quote.svg" alt="Veri, yapay zekanın fosil yakıtıdır — Ilya Sutskever" />
+## 💬 Dev Quote
+
+<div align="left">
+  
+![Quote](https://svg-banners.vercel.app/api?type=luminance&text1=💬%20Veri,%20yapay%20zekanın%20fosil%20yakıtıdır&width=800&height=120)
+
+</div>
 
 
 

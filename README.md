@@ -47,11 +47,90 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ✍️ Dev Quote
 
-<div align="left">
-> **"** Veri, **Data** is the fossil fuel of **artificial intelligence**dır.  
-> 
-> — **Ilya Sutskever**
-</div>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="800"
+  height="220"
+  viewBox="0 0 800 220"
+  role="img"
+  aria-labelledby="title desc">
+  <title id="title">Quote Card - Ilya Sutskever</title>
+  <desc id="desc">Data is the fossil fuel of artificial intelligence. Quote by Ilya Sutskever.</desc>
+
+  <!-- Gradients -->
+  <defs>
+    <!-- Border & icon gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <!-- Soft glow gradient for text -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    x="1"
+    y="1"
+    width="798"
+    height="218"
+    rx="16"
+    ry="16"
+    fill="#FFFFFF"
+    stroke="url(#borderGradient)"
+    stroke-width="2"
+  />
+
+  <!-- Quote icon (top-left) -->
+  <text
+    x="40"
+    y="60"
+    font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="40"
+    fill="url(#borderGradient)">
+    “
+  </text>
+
+  <!-- Main quote text with glow -->
+  <g filter="url(#glow)">
+    <text
+      x="50%"
+      y="110"
+      text-anchor="middle"
+      font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+      font-size="22"
+      font-weight="700"
+      fill="url(#textGradient)">
+      Data is the fossil fuel of artificial intelligence.
+    </text>
+  </g>
+
+  <!-- Attribution -->
+  <text
+    x="760"
+    y="170"
+    text-anchor="end"
+    font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="15"
+    font-style="italic"
+    fill="#4B5563">
+    Ilya Sutskever
+  </text>
+</svg>
+
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

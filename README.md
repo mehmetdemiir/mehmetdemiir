@@ -46,12 +46,15 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </p>
 
 ## ✍️ Dev Quote
-<p align="left">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Veri%20yapay%20zekanın%20fosil%20yakıtıdır&author=Ilya%20Sutskever"
-    alt="Dev Quote"
-  />
-</p>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=7C4DFF">
+    <img alt="Quote" src="https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=7C4DFF&color=ffffff">
+  </picture>
+  <br>
+  <sub><i>— Ilya Sutskever</i></sub>
+</div>
+
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

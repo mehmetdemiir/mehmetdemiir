@@ -46,14 +46,13 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </p>
 
 ## ✍️ Dev Quote
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=7C4DFF">
-    <img alt="Quote" src="https://img.shields.io/badge/💭_Veri,_yapay_zekanın_fosil_yakıtıdır-1E88E5?style=for-the-badge&labelColor=7C4DFF&color=ffffff">
-  </picture>
-  <br>
-  <sub><i>— Ilya Sutskever</i></sub>
-</div>
+## 💬 Dev Quote
+<p align="left">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/Veri%2C%20yapay%20zekanın%20fosil%20yakıtıdır.%20Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence.%20%E2%80%94%20Ilya%20Sutskever-ffffff?style=for-the-badge&logo=quote&logoColor=1E88E5&labelColor=1E88E5&color=ffffff"
+    alt="Dev Quote"
+  />
+</p>
 
 
 <!-- === Basit dalga efekti (alt) === -->

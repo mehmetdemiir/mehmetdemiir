@@ -25,7 +25,6 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 📫 How to Reach Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mehmet-demir-powermd)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mehmetdemiir.60@gmail.com)
-<p align="left">
   <a href="MEDIUM_URL" target="_blank">
     <img src="https://cdn.simpleicons.org/medium/000000" height="40" alt="Medium">
   </a>

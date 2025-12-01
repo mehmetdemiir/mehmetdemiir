@@ -47,15 +47,8 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## ✍️ Dev Quote
 
-<p align="left">
-  <img
-    src="https://readme-quote-card.vercel.app/api?text=Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence.&author=Ilya%20Sutskever&theme=light&borderColor=0A66C2&borderRadius=16&backgroundColor=ffffff&fontColor=2A6BF5&authorColor=8A2BE2&borderWidth=2&fontSize=24px"
-    alt="Data is the fossil fuel of artificial intelligence. - Ilya Sutskever"
-    style="border:2px solid #0A66C2; border-radius:16px; filter:drop-shadow(0 0 6px rgba(42,107,245,0.3));"
-    width="700"
-  >
-</p>
-</div>
+<img src="https://readme-quote-card.vercel.app/api?text=Data%20is%20the%20fossil%20fuel%20of%20artificial%20intelligence.&author=Ilya%20Sutskever" width="700">
+
 
 <!-- === Basit dalga efekti (alt) === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>

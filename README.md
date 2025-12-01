@@ -46,8 +46,8 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </p>
 
 ## ✍️ Dev Quote
-## 💬 Dev Quote
-<img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/quote-card.svg" alt="Dev Quote" width="100%"/>
+<img src="./ilya-quote.svg" alt="Veri, yapay zekanın fosil yakıtıdır — Ilya Sutskever" />
+
 
 
 <!-- === Basit dalga efekti (alt) === -->

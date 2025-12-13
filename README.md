@@ -51,16 +51,16 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🔎 GitHub Insights & Stats
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img  
           src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" 
           height="195"  
           alt="Mehmet Demir's GitHub Stats"
         />
       </td>
-      <td>
+      <td style="border: none;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true&text_bold=true&layout=compact" 
           height="195" 

@@ -51,7 +51,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 ## 🔎 GitHub Insights & Stats
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img  

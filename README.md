@@ -61,7 +61,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&card_width=280&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true&text_bold=true"
     height="195"
-    width="270"
+    width="240"
     alt="Top Languages"
   />
 </div>

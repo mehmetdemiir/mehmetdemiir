@@ -50,23 +50,30 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 ## 🔎 GitHub Insights & Stats
-<p align="center">
-  <img  
-    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" 
-    height="195"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&layout=compact" 
-    height="195"
-  />
-</p>
+<div align="left">
+  <div style="display:flex; gap:5px; align-items:stretch;">
 
-<p align="center">
+    <img  
+      src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" 
+      height="195"
+      style="margin-left:10px;"
+    />
+
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&layout=compact" 
+      height="195"
+    />
+
+  </div>
+</div>
+
+<div align="left" style="margin-top:5px; margin-left:10px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
     height="195"
   />
-</p>
+</div>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehmetdemiir&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>

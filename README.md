@@ -50,29 +50,23 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5E35B1,33:303F9F,66:1976D2,100:1E88E5&section=footer" width="100%" alt="decorative divider"/>
 
 ## 🔎 GitHub Insights & Stats
-<div align="left">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding-right:10px; vertical-align: top;">
-        <img  
-          src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10" 
-          height="195"
-          alt="Mehmet Demir's GitHub Stats"
-        />
-      </td>
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;" align="left"> 
+  <img  
+    src="https://github-readme-stats.vercel.app/api?username=mehmetdemiir&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
+    height="195"
+    width="390"
+    alt="Mehmet Demir's GitHub Stats"
+  />
 
-      <td style="border: none; vertical-align: top;">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&card_width=320&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true"
-          height="195"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdemiir&layout=compact&card_width=280&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true&text_bold=true"
+    height="195"
+    width="280"
+    alt="Top Languages"
+  />
 </div>
 
-<div align="center" style="margin-top:10px;">
+<div align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemiir&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
     height="195" 
